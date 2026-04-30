@@ -10,3 +10,7 @@ per usare il pacchetto va richiamato con la funzione `library()`
 ```r
 library(corgi)
 ```
+
+#il pacchetto è organizzato così: usa chat gpt
+
+va aggiunto altro!!!
